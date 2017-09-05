@@ -1,0 +1,1894 @@
+[INFO  - 2017-08-19T10:20:19.540Z] GhostDriver - Main - running on port 45915
+[INFO  - 2017-08-19T10:20:20.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-08-19T10:20:20.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.customHeaders:  - {}
+[INFO  - 2017-08-19T10:20:20.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-08-19T10:20:20.650Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0131dc60-84c8-11e7-972f-25825e595968
+[ERROR - 2017-08-19T10:20:23.807Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:23.807Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%27%27Everything%20on%20Paper%20Will%20Be%20Used%20Against%20Me%27:%20Quantifying%20Kissinger%27:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:36.763Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:36.763Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%2788milSMS%27%2C%20A%20New%20Digital%20Corpus%20Resource%20Of%20French%20Text%20Messages:%20Why%20We%20Chose%20To%20Exclude%20Full%20Transcoding%20And%20Standardised%20Tagging.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:41.898Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:41.899Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%27On%20the%20Clock%27:%20Grading%20the%20NFL%20Draft%20Pundits:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:49.661Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:49.661Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%27Sonic%20Materialization%20of%20Linguistic%20Data%27%20%28working%20title%29:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:56.703Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:20:56.703Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%40LIBB:%20Changing%20Literacies%20for%20the%20Boundless%20Book:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:01.126Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:01.126Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%203D%20Model%20Of%20The%20Venetian%20Galeazza:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:08.121Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:08.121Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Closer%20Look:%20Developing%20Mobile%20Applications%20to%20Reveal%20Hidden%20Meanings%20of%20Art:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:13.320Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:13.320Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Collaborative%20Interdisciplinary%20Knowledge-Base%20for%20the%20Art%20Conservation%20Community:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:22.833Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:22.833Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Computational%20Bibliography%20Of%20Two%20Plays%20From%20The%20Shakespeare%20Folio:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:28.327Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:28.327Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Digital%20Humanities%20GIS%20Ontology:%20Tweetflickertubing%20James%20Joyce%E2%80%99s%20%27Ulysses%27%20%281922%29:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:37.012Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:37.012Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Distant%20Reading%20Visualization%20for%20Variant%20Graphs:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:45.000Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:45.000Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Longitudinal%20Analysis%20of%20Knowledge%20Integration%20in%20Digital%20Humanities%20Using%20Co-citation%20Analysis:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:53.868Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:53.868Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20plea%20for%20a%20method-driven%20agenda%20in%20the%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:59.895Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:21:59.895Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Quantitative%20Analysis%20for%20the%20Authorship%20of%20Saikaku%E2%80%99s%20Posthumous%20Works%20Compared%20with%20Dansui%E2%80%99s%20works:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:09.760Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:09.760Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Story%20of%20Design%20Research:%20Initiating%20a%20change%20network%20for%20Western%20Sydney:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:14.445Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:14.445Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20Study%20of%20Symbolic%20Element%20Network%20in%20National%20Emblems:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:22.834Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:22.834Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=A%20System%20for%20the%20Textual%20Inheritance%20Relation%20of%20Chinese%20Historical%20Classics%20%27Comprehensive%20Mirror%27%2C%20%27Grand%20Tortoise%27%20and%20%27Standard%20Histories%27:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:26.965Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:26.965Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Accidental%20Discovery%2C%20Intentional%20Inquiry:%20Leveraging%20Linked%20Data%20to%20Uncover%20the%20Women%20of%20Jazz:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:34.565Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:34.565Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Alveo:%20Software%20Engineering%20with%20Humanities%20Researchers:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:40.686Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:40.686Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=An%20Efficient%20Collaborative%20Web-based%20Working%20Environment%20For%20The%20Creation%20Of%20A%20Digital%20Sanskrit%20Dictionary:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:47.611Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:47.611Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=An%20entity-based%20approach%20to%20interoperability%20in%20the%20Canadian%20Writing%20Research%20Collaboratory:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:54.353Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:22:54.353Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=An%20Environment%20for%20putting%20Digital%20Humanities%20Pedagogy%20in%20Place:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:04.016Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:04.016Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=An%20Introduction%20to%20Digital%20Manuscript%20Studies:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:09.877Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:09.877Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Anatomy%20of%20a%20Drop-Off%20Reading%20Curve:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:45.333Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:45.334Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Animation%20of%20Chinese%20Characters:%20the%20Evolution%20of%20the%20Shapes%20and%20Styles:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:52.794Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:52.794Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Applying%20a%20Combined%20Quantitative%20and%20Qualitative%20Analysis%20Method%20to%20Evaluate%20the%20Translatorship%20of%20the%20Fourth%20Division%20of%20the%20Chinese%20Translation%20of%20the%20D%3Frgha-%3Fgama:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:59.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:23:59.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Approaching%20Textuality%20with%20the%20Metaphor%20of%20the%20Digitized%20Workset:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:06.535Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:06.535Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Archaeology%20in%20the%20Digital%20Age:%20From%20Paper%20to%20Databases:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:14.757Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:14.757Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=At%20the%20Crossroads%20of%20Data%20and%20Wonder:%20Algorithmic%20Approaches%20to%20Fairy%20Tales%20on%20Television:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:20.473Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:20.473Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Automated%20Comparison%20of%20Narrative%20and%20Character%20Function%20Similarity%20Using%20Graph%20Theory:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:26.475Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:26.475Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Automatic%20semantic%20tagging%20of%20Leo%20Tolstoy%E2%80%99s%20works:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:34.386Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:34.386Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=AXES:%20Researching%20%26%20Accessing%20Videos%20Through%20Multimodal%20Analyses:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:36.771Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:36.771Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Beyond%20Boundaries:%20Digital%20Humanities%2C%20Life%20Sciences%20and%20IT%20research:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:41.944Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:41.945Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Beyond%20Pragmatics:%20Disciplinary%20Profits%20of%20Interdisciplinary%20Approaches:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:47.562Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:47.562Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Beyond%20the%20Library%20Walls:%20The%20National%20Library%20of%20Wales%20Research%20Programme%20in%20Digital%20Collections:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:53.791Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:24:53.791Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Black%20Boxed%20Selves:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:00.162Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:00.162Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Bridging%20the%20Gap%20between%20the%20National%20Library%20and%20the%20Researchers:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:05.261Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:05.261Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Bringing%20to%20life%20the%20Living%20Archive%20of%20Aboriginal%20Languages:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:11.408Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:11.408Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Building%20Better%20Linked%20Data%20%26%20Ontology%20Visualization%20Tools:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:13.977Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:13.978Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Building%20Post-disaster%20Social%20Capital:%20A%20Current%20State%20Report%20on%20the%20UC%20CEISMIC%20Digital%20Archive:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:18.998Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:18.998Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Building%20The%20Early%20Modern%20Digital%20University:%20Using%20Social%20Network%20Analysis%20and%20Digital%20Visualization%20Tools%20To%20Bring%20The%20Early%20Modern%20Network%20Of%20Networks%20%28EMNON%29%20To%20Life:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-19T10:25:19.551Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-08-19T10:25:27.181Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:27.181Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Capturing%20Virtual%20Verse:%20A%20Needs%20Assessment%20for%20Access%20and%20Preservation%20of%20Online-Only%20Literature:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:32.012Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:32.012Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Challenges%20of%20an%20XML-based%20Open-Access%20Journal:%20Digital%20Humanities%20Quarterly:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:37.964Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:37.964Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Character%20Network%20Analysis%20of%20%C3%89mile%20Zola%27s%20Les%20Rougon-Macquart:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:48.730Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:48.730Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Cleaning%20and%20Exploring%20Your%20Data%20With%20Open%20Refine:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:55.022Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:25:55.022Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Collaborative%20Digitisation:%20UCL%E2%80%99s%20Medieval%20Manuscript%20Fragment%20Project:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:04.021Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:04.022Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Collaborative%2C%20Speculative%20Technologically-Enhanced%20Mobile%20Libraries%2C%20Or%20How%20Davidson%20College%20Students%20Learned%20to%20Stop%20Worrying%20and%20Love%20The%20Library:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:08.715Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:08.715Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Computational%20approaches%20to%20Ireland%E2%80%99s%20Contemporary%20Literary%20Journals:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:16.024Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:16.024Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Computer%20Simulation%20of%20Diffusion:%20New%20Suggestions%20about%20the%20Process%20of%20Language%20Change:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:23.279Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:23.279Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Computer%20Supported%20Collation%20With%20CollateX:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:30.065Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:30.065Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Concepts%20Through%20Time:%20Tracing%20Concepts%20In%20Dutch%20Newspapers%20Discourse%20%281890-1990%29%20Using%20Word%20Embeddings:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:36.118Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:36.118Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Conceptualizing%20DH%20for%20Multiple%20Audiences:%20Folkvine%20and%20Chinavine:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:42.239Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:42.239Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Construction%20of%20the%20Corpus%20of%20Toraakira-bon%20Ky%3Fgen:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:52.492Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:52.493Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Contextual%20Modelling%20in%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:59.502Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:26:59.502Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Cora%20Crane%27s%20Contribution%20to%20Stephen%20Crane%27s%20Posthumous%20Fiction:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:05.007Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:05.007Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Creating%20Linked%20Data%20within%20Archival%20Description:%20Tools%20for%20Extracting%2C%20Validating%2C%20and%20Encoding%20Access%20Points%20for%20Finding%20Aids:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:11.236Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:11.236Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Creating%20Time%20Capsules%20for%20Colonial%20Botanical%20Drugs%20in%20the%20Early%20Modern%20Low%20Countries:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:20.579Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:20.579Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Crowdsourcing%20the%20Text:%20Contemporary%20Approaches%20to%20Participatory%20Resource%20Creation:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:26.602Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:26.602Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=DARIAH-DE:%20Building%20a%20Distributed%20Research%20Data%20Repository%20for%20a%20Digital%20Humanities%20Network:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:32.283Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:32.283Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Data%20Aesthetics%2C%20Old%20and%20New.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:38.403Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:38.403Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Data%20Revisualization%20as%20Critical%20Humanities%20Practice:%20Reinterpreting%2019th%20Century%20Data%20with%20Modern%20Tools:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:45.407Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:45.407Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Detection%20of%20People%20Relationship%20Using%20Topic%20Model%20from%20Diaries%20in%20Medieval%20Period%20of%20Japan:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:50.790Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:50.790Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Developing%20a%20Sustainable%20Model%20in%20Mutual%20Cultural%20Digital%20Heritage:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:55.676Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:27:55.676Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Corpus%20and%20Toolset%20for%20Performing%20Text%20Analysis%20on%20Chinese%20Translation%20of%20Buddhist%20Scriptures:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:04.249Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:04.249Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Democracy%20Project:%20Making%20Government%20More%20Transparent%20one%20Video%20at%20a%20Time:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:13.875Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:13.876Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Dunhuang:%20Enhancing%20Virtual%20Explorations%20of%20the%20Real%20Dunhuang:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:25.072Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:25.072Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Evidence%20in%20the%20Jury%20Room:%20the%20Impact%20of%20Tablets%20on%20Communication%20and%20Decision:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:31.092Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:31.092Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Humanities%20as%20Catalyst%20for%20Digital%20Art%20History:%20The%20Slade%20Archive%20Project:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:40.708Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:40.708Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Humanities%20educational%20vehicle%20-%20new%20patterns%20of%20research%20and%20learning%20approach%20in%20the%20Digital%20Age%20of%20Access:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:46.190Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:46.190Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Media%20Literacy%20in%20Indonesian%20Youth:%20Building%20Sustainable%20Democratic%20Institutions%20and%20Practices:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:50.386Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:50.386Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Musical%20Industry%20and%20Identity%20in%20Melanesia:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:57.173Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:28:57.173Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20Network%20Analysis%20of%20Dramatic%20Texts:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:07.154Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:07.154Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digital%20New%20Testament:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:13.463Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:13.464Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digitalization%20of%20Shoso-in%20Monjo%20and%20Extraction%20of%20Knowledge:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:19.980Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:19.981Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digitisation%2C%20Processing%2C%20Dissemination:%20Charting%20the%20Ecology%20of%20the%20New%20Scholarly%20Edition:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:25.737Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:25.737Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Digitizing%20Slow%20and%20Deliberate:%20The%20Victorian%20Short%20Fiction%20Project:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:33.955Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:33.955Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Disciplinary%20Impact:%20The%20Effect%20of%20Digital%20Editing:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:39.545Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:39.545Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Discourse%2C%20Design%20and%20Disorder:%20Digital%20Models%20for%20an%20Aesthetic%20Literary%20Theory:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:46.932Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:46.932Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Discovering%20and%20Rediscovering%20Full%20Text:%20Unearthing%20and%20Refactoring:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:52.515Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:29:52.515Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=DIVADIAWI%20-%20A%20Web-based%20Interface%20for%20Semi-automatic%20Labeling%20of%20Historical%20Document%20Images:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:04.103Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:04.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=DIVAServices%20%E2%80%93%20A%20RESTful%20Web%20Service%20for%20Document%20Image%20Analysis%20Methods:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:11.260Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:11.260Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=DPRR:%20Digitizing%20the%20Prosopography%20of%20the%20Roman%20Republic:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:17.704Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:17.704Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=DREaM:%20Distant%20Reading%20Early%20Modernity:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-19T10:30:19.556Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-08-19T10:30:29.585Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:29.585Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Electronic%20Literature%20and%20the%20Politics%20of%20Process:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:39.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:39.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Element%20Detection%20in%20Japanese%20Comic%20Book%20Panels:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:46.429Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:46.429Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=ElfYelp:%20Geolocated%20Topic%20Models%20for%20Pattern%20Discovery%20in%20a%20Large%20Folklore%20Corpus:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:57.651Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:30:57.651Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Encoding%20Vocabularies%20of%20Australian%20Indigenous%20Languages:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:03.722Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:03.722Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Enriching%20the%20HuNI%20Virtual%20Laboratory%20with%20Content%20from%20the%20Trove%20Digitized%20Newspapers%20Corpus:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:07.847Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:07.847Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Entity%20Relationship%20Model%20for%20READ:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:12.948Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:12.948Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Exploration%20of%20Billions%20of%20Words%20of%20the%20HathiTrust%20Corpus%20with%20Bookworm:%20HathiTrust%20%2B%20Bookworm%20Project:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:20.640Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:20.640Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Exploratory%20Search%20Through%20Interactive%20Visualization%20of%20Topic%20Models:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:28.399Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:28.399Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Exploring%20Community%20Engagement%20in%20the%20Design%20of%20an%20Online%20Archive:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:33.941Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:33.941Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Exploring%20Large%20Datasets%20with%20Topic%20Model%20Visualizations:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:41.641Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:41.641Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Exploring%20Peer%20Review%20in%20the%20GeoHumanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:47.365Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:47.365Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Extracting%20Key%20Phrases%20for%20Suggesting%20Annotation%20Candidates%20from%20Japanese%20Historical%20Document:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:55.173Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:31:55.173Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=FAIMS%20Mobile%20Platform:%20Collecting%20Fieldwork%20Data%20with%20FAIMS:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:01.014Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:01.014Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Feminism%20and%20the%20digital:%20towards%20a%20database%20of%20Argentine%20women%20artists:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:07.430Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:07.430Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Finding%20the%20Same%20Artworks%20from%20Multiple%20Databases%20in%20Different%20Languages:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:15.947Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:15.947Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Following%20the%20Stars%20%28Under%20the%20Stars%29:%20Mapping%20The%20Film%20Circuits%20of%20Inter-War%20Outdoor%20Picture%20Gardens%20in%20Western%20Australia:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:20.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:20.105Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=From%20Crowdsourcing%20to%20Knowledge%20Communities:%20Creating%20Meaningful%20Scholarship%20Through%20Digital%20Collaboration:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:25.694Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:25.694Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=From%20KWIC%20Concordance%20to%20Video%20excerpt%20or%20Folio%20facsimile:%20Demonstration%20of%20Multimodal%20and%20Multimedia%20corpora%20in%20TXM:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:36.580Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:36.580Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=From%20lighthouse%20to%20the%20moon:%20a%20guiding%20light%20to%20the%20corpus%20of%20Jules%20Verne:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:43.079Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:43.079Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=From%20Mapping%20the%20Republic%20of%20Letters%20to%20Humanities%20%2BDesign%20Research%20Lab:%20Creating%20Visualization%20Tools%20for%20Humanistic%20Inquiry:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:48.787Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:32:48.787Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=From%20Text%20and%20Image%20to%20Historical%20Resource:%20Text-Image%20Alignment%20for%20Digital%20Humanists:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:03.599Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:03.599Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=From%20the%20Holocaust%20Victims%20Names%20to%20the%20Description%20of%20the%20Persecution%20of%20the%20European%20Jews%20in%20Nazi%20Years:%20the%20Linked%20Data%20Approch%20and%20a%20New%20Domain%20Ontology.%20The%20Italian%20Pilot%20Project.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:10.989Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:10.989Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Function%20word%20stylistics%20and%20interpretation:%20Elizabeth%20Cary%27s%20Mariam:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:33.655Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:33.656Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Game%20of%20Thrones%20for%20All:%20Model-based%20Generation%20of%20Universe-appropriate%20Fictional%20Characters:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:40.885Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:40.885Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Gender%20Markers:%20Distinctive%20Words%20in%20Male%20and%20Female%20Authorship:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:46.333Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:46.334Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Generating%20Navigable%20Semantic%20Maps%20from%20Social%20Sciences%20Corpora:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:55.739Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:33:55.739Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Genetic%20Criticism%20and%20Digital%20Editing:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:02.414Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:02.414Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Geo-Language%20Games:%20An%20Agent-Based%20Model%20of%20the%20Role%20of%20Terrain%20in%20Language%20Diversity:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:07.290Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:07.290Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Global%20Perspectives%20on%20Digital%20Humanities%20Expertise:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:14.526Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:14.526Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Gradient-domain%20Noise%20for%20Realistic%20Degradations%20in%20Historical%20Documents%20Images:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:22.039Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:22.039Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Grove%20-%20Creating%20An%20Ecology%20of%20Flows:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:27.135Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:27.135Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Historical%20And%20Demographic%20Database:%20Russian%20Experience%20And%20Prospects:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:33.568Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:33.568Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=How%20about%20Tools%20for%20the%20whole%20range%20of%20scholarly%20activities%3F:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:38.837Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:38.837Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=How%20Long%20Is%20Now%3F%20The%20%27Digital%27%20in%20DH:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:45.254Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:34:45.254Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=How%20To%20Edit%20a%20Map%20in%20TEI:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-19T10:35:19.555Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-08-19T10:35:43.198Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:35:43.198Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=HuNI:%20Building%20and%20Linking%20Research%20Collections%20Online:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:35:48.201Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:35:48.201Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Hypergraph%20Based%20Collaborative%20Film%20Archive:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:35:55.975Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:35:55.975Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Identifying%20Classical%20and%20Written%20Vernacular%20Chinese%20Language:%20A%20Statistical%20Study%20based%20on%20Texts%20from%20New%20Youth%20Magazine%20%281915-1922%29:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:03.066Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:03.066Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Identifying%20Synonymous%20Word%20Groups%20in%20the%20Synoptic%20Gospels:%20A%20Quantitative%20Analytical%20Approach:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:11.305Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:11.305Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Implementing%20and%20Sustaining%20a%20DH%20Infrastructure%20%E2%80%93%20%E2%80%9CThe%20HUMlab%20Experience%E2%80%9D:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:17.172Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:17.172Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Improving%20Burrows%E2%80%99%20Delta%20%E2%80%93%20An%20empirical%20evaluation%20of%20text%20distance%20measures:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:27.743Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:27.743Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Improving%20Compliance%20With%20Evolving%20Standards%20Using%20Computed%20Transformation%20of%20Digital%20Collections:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:33.577Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:33.577Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=In%20The%20Spotlight:%20Digitization%20And%20The%20Keith/Albee%20Vaudeville%20Theater%20Collection:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:38.418Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:38.418Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Infrastructure%20Requirements%20For%20A%20UNESCO%20World%20Heritage%20Archival%20Infrastructure:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:43.143Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:36:43.143Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Interactive%20Similarity%20Analysis%20of%20Early%20New%20High%20German%20Text%20Variants:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:00.505Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:00.505Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Interactive%20Visual%20Analysis%20Of%20German%20Poetics:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:07.133Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:07.133Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Interrogating%20Our%20Collections%3B%20Interrogating%20Ourselves:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:13.214Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:13.214Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Introduction%20to%20Starting%20and%20Sustaining%20DH%20Centers:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:18.041Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:18.041Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Introduction%20To%20The%20TXM%20Content%20Analysis%20Software:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:25.183Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:25.183Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Inversed%20N-gram%20viewer:%20Searching%20the%20space%20of%20word%20temporal%20profiles:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:39.461Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:39.461Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Ivanhoe:%20A%20Platform%20for%20Textual%20Play:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:44.803Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:44.804Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Kapital:%20An%20Interactive%20Fiction%20Game:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:51.527Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:37:51.527Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=KinDigi%20Social:%20A%20Mobile-centered%20Social%20Annotation%20Platform%20for%20the%20Kindai%20Digital%20Library:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:01.419Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:01.419Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Knowledge%20Networks%2C%20Juxtaposed:%20Disciplinarity%20in%20the%20Encyclop%C3%A9die%20and%20Wikipedia:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:10.866Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:10.866Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Language%2C%20Cultural%20Influences%20and%20Intelligence%20in%20Historical%20Gazetteers%20of%20the%20Great%20War:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:15.279Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:15.279Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Libraries%20and%20Digital%20Humanities%20Special%20Interest%20Group:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:22.217Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:22.217Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Linked%20Open%20Data%20and%20the%20First%20World%20War:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:32.393Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:32.393Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=LinkedIn%20circa%202000%20BCE:%20Towards%20a%20Network%20Model%20of%20Pu%C5%A1u-ken%E2%80%99s%20Commercial%20Relationships%20in%20Old%20Assyria:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:40.920Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:40.920Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Linking%20humanities%20data%20geospatially%20with%20Pelagios%20and%20Recogito:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:47.609Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:47.609Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Local%20Music%20Repertoire%20and%20the%20Digitization%20of%20the%20International%20Music%20Industry:%20An%20Empirical%20Analysis%2C%201994%20-%202013:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:55.077Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:55.077Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Making%20Digital%20Aural%20History:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:59.070Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:38:59.070Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Making%20Digital%20Histories:%20Developing%20Students%20as%20Historians:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:03.470Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:03.470Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mapping%20and%20Modeling%20Centuries%20of%20Literary%20Geography%20across%20Millions%20of%20Books:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:12.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:12.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mapping%20Notes%20And%20Nodes:%20Building%20A%20Multi-Layered%20Network%20For%20A%20History%20Of%20The%20Cultural%20Industry:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:27.556Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:27.556Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mapping%20the%20Contours%20of%20the%20New%20Aesthetic%2C%20Opening%20Considerations%20for%20Digital%20Rhetoric:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:34.421Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:34.421Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mapping%20the%20Emotions%20of%20London%20in%20Fiction%2C%201700-1900:%20A%20Crowdsourcing%20Experiment:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:49.743Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:49.743Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mapping%20the%20Futures%20of%20Higher%20Education:%20Teaching%2C%20Learning%20and%20Research%20in%20the%20Age%20of%20Google:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:54.950Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:39:54.950Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=MARKUS%3Fa%20Fundamental%20Semi-automatic%20Markup%20Platform%20for%20Classical%20Chinese:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:04.109Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:04.110Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mbira:%20A%20Platform%20to%20Build%2C%20Serve%2C%20and%20Sustain%20Mobile%20Heritage%20Experiences:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:11.291Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:11.291Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Measuring%20Virality:%20Quantifying%20Formal%20and%20Paratextual%20Features%20Associated%20with%20%E2%80%9CViral%E2%80%9D%20Books:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:17.920Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:17.920Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Medium%20data%20method%20for%20cultural%20studies:%20the%20case%20of%20gender%20studies%20in%20Russian%20National%20Corpus.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-19T10:40:19.567Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-08-19T10:40:24.114Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:24.114Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Mining%20and%20Discovering%20Biographical%20Information%20in%20Difangzhi%20with%20a%20Language-Model-based%20Approach:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:31.705Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:31.705Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Modeling%20Approaches%20to%20Library-led%20DH%20Pedagogy:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:36.450Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:36.450Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Modelling%20Concepts%20to%20Improve%20the%20Search%20Capabilities%20on%20Ancient%20Corpora:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:43.674Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:43.674Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Modelling%20Genre%20Using%20Character%20Networks:%20The%20National%20Tales%20and%20Domestic%20Novels%20of%20Maria%20Edgeworth:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:50.336Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:50.336Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Modelling%20the%20%28Inter%29National%20Printmaking%20Networks%20of%20Early%20Modern%20Europe:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:58.360Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:40:58.360Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Morphological%20Analysis%20of%20Japanese%20Ky%3Fgen%20Text:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:04.286Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:04.286Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Multiple%20Views%20and%20Modes%20of%20Engagement%20with%20a%20Repository%20of%20Digital%20Texts:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:09.706Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:09.706Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Music%20Score%20Representation%20of%20Poetry%20Reading:%20Can%20Prosody%20Be%20Studied%20by%20Analyzing%20the%20Author%E2%80%99s%20Voice%3F:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:17.999Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:17.999Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Myths%20on%20Maps:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:23.824Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:23.824Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Negotiating%20The%20Issues%20Of%20Encoding%20And%20Producing%20Traditional%20Scripts%20On%20Computers%20%E2%80%93%20Working%20With%20Unicode:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:31.746Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:31.746Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=New%20Developments%20in%20Quantitative%20Metrics:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:40.032Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:40.032Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Nichesourcing%20The%20Uralic%20Languages%20For%20The%20Benefit%20Of%20Linguistic%20Research%20And%20Lingual%20Societies:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:44.840Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:44.840Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Nocht:%20An%20Open%20Source%20Tool%20for%20Text%20Analysis:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:49.738Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:49.738Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Non-hegemonic%20Interoperability:%20Towards%20a%20Global%20Conversation%20in%20Digital%20Performance%20Research:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:55.179Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:41:55.179Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Novels%20in%20Context:%20A%20TEI%20Database%20of%20Primary%20Resources%20for%20Teachers%2C%20Students%2C%20and%20Scholars:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:01.884Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:01.884Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Old%20Traces%2C%20New%20Links:%20Representation%20of%20Taiwan%20Baotu%20in%20OpenStreetMap:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:12.359Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:12.360Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Omeka:%20The%20Basics%20%26%20Beyond:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:15.974Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:15.974Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=On%20the%20Use%20of%20Visualization%20for%20the%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:24.280Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:24.280Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Organizational%20Practices%20in%20Digital%20Humanities%20Centers:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:30.906Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:30.906Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Palimpsest:%20Improving%20Assisted%20Curation%20of%20Loco-specific%20Literature:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:39.741Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:39.741Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Patterns%20of%20Novelty%20in%20Literary%20Data:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:46.047Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:46.047Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Pedagogical%20Hermeneutics%20and%20Teaching%20DH%20in%20a%20Liberal%20Arts%20Context:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:51.783Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:51.783Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Perseids%20And%20Arethusa:%20Building%20Tools%20That%20Build%20Digital%20Humanists:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:57.764Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:42:57.765Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=PhiloLogic4%20And%20The%20Android%20PhiloReader%20Apps:%20Toward%20Building%20A%20Full-Featured%20PhiloLogic%20API:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:07.798Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:07.798Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Predicting%20the%20International%20Appeal%20of%20novels:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:15.571Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:15.571Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Press%20F6%20to%20Reload:%20Games%20Studies%20and%20the%20future%20of%20the%20Digital%20Humanities%20in%20India:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:21.341Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:21.341Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Progressive%20philology%20with%20TXM:%20from%20%27raw%20text%27%20to%20%27TEI%20encoded%20text%27%20analysis%20and%20mining:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:28.280Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:28.281Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Proposal%20for%20Creation%20of%20%27Research%20Profile%27%20of%20Photo%20Archives%20Using%20Digital%20Book%20Format:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:38.448Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:38.448Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Prototyping%20A%20Workset%20Builder%20Using%20Semantic%20Technologies:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:45.677Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:45.678Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Psst%21%20An%20informal%20approach%20to%20expanding%20the%20linguistic%20range%20of%20the%20Digital%20Humanities.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:51.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:51.650Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Publish:%20Whatever%20The%20Price%3F%20A%20French%20Study%20On%20Structuration%20Of%20Costs%20During%20Publishing%20Process%20In%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:57.001Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:43:57.001Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Punched-Card%20Humanities:%20Roberto%20Busa%20and%20IBM%20in%20Historical%20Context:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:03.253Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:03.254Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Quantifying%20Ambiguity%20by%20Gamifying%20the%20Writing%20Process:%20A%20Case%20Study%20on%20William%20Blake%E2%80%99s%20%E2%80%9CThe%20Sick%20Rose%E2%80%9D:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:10.114Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:10.114Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Queen%20Luise%20of%20Prussia%2C%20a%20Digital%20Hagiography:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:16.959Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:16.959Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Rare%20N-Grams%2C%20Victorian%20Drama%2C%20and%20Authorship%20Attribution:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:43.011Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:43.011Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Recording%20Historical%20Connections%20In%20The%20Dictionary%20Of%20Sydney.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:50.230Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:50.230Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Remapping%20Cultural%20History%3F%20Digital%20Humanities%2C%20Historical%20Bibliometrics%2C%20and%20the%20Reception%20of%20Print%20Culture:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:56.838Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:44:56.838Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Remembering%20books:%20A%20within-book%20topic%20mapping%20technique:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:04.679Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:04.679Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Remote%20Health%20Support%20System%20for%20Pregnant%20Women%20in%20Rural%20Areas:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:11.677Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:11.677Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Renderings:%20Translating%20Literary%20Works%20in%20the%20Digital%20Age:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:17.101Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:17.101Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Research%20Through%20Design%20and%20Digital%20Humanities%20in%20Practice:%20What%2C%20How%20and%20Who%20in%20an%20Archive%20Research%20Project.:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-19T10:45:19.569Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-08-19T10:45:25.120Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:25.120Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Ruptured%20Life%20Courses:%20Institutional%20and%20Cultural%20Influences%20in%20Transnational%20Contexts:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:30.709Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:30.709Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Scaling%20Up%20Digital%20Public%20History:%20Lessons%20Learned%20From%20The%20Find%20%26%20Connect%20Web%20Resource%20Project:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:34.061Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:34.061Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Sea%20Stacks:%20Contemporary%20Atlantic%20Canadian%20Books%20for%20Children%20and%20Youth:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:37.988Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:37.988Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Search%20for%20Needles%20in%20DH%20Haystacks%20Continued:%20Zooming%20in%20with%20Corpus%20Query%20Tools:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:45.503Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:45.503Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Seeing%20Is%20Revealing:%20A%20Critical%20Discussion%20on%20Visualisation%20And%20The%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:51.906Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:51.906Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Segetes:%20a%20Digital%20Initiative%20in%20Discovering%20and%20Simplifying%20Access%20to%20Open%20Source%20Metadata%20for%20Vergil%E2%80%99s%20Works:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:58.164Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:45:58.164Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Senga:%20Participatory%20Curation%20and%20the%20Mathematical%20Model%20of%20Exhibition:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:09.273Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:09.273Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Server%20Factories%20and%20Memory%20Mediators:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:14.706Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:14.707Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Significance%20of%20Linking%20between%20past%20and%20present%2C%20east%20and%20west%2C%20and%20various%20databases:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:22.499Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:22.499Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Social%20Media%20Data:%20Twitter%20Scraping%20on%20NeCTAR:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:28.616Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:28.616Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Sounding%20it%20Out:%20The%20Mariposa%20Folk%20Festival%20and%20a%20Linked%20Open%20Data%20Digital%20Library%20Prototype:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:34.991Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:34.991Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Starting%20from%20Scratch%3F:%20Strategies%20for%20Building%20Undergraduate-Centered%20%23DH%20Programs:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:39.456Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:39.456Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Statistical%20Institutions%20and%20Database%20Disasters:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:44.797Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:44.797Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Steampunk%20and%20Nineteenth-Century%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:49.741Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:46:49.741Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Succession:%20Generative%20Techniques%2C%20Speculative%20Interpretation%20and%20Digital%20Heritage:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:02.058Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:02.058Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Supporting%20Peer-Review%20for%20GeoHumanities%20and%20Spatially-Inflected%20Projects:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:09.586Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:09.586Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Suspense:%20Language%2C%20Narrative%2C%20Affect:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:15.717Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:15.717Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Susurrant:%20A%20Tool%20for%20Algorithmic%20Listening%20in%20Networked%20Soundscapes:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:21.451Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:21.451Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Taking%20Stylometry%20to%20the%20Limits:%20Benchmark%20Study%20on%205%2C281%20Texts%20from%20%E2%80%9CPatrologia%20Latina%E2%80%9D:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:31.485Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:31.485Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Tales%20Of%20A%20Discipline%20In%20The%20Digital%20Age:%20Information%20Practices%20And%20Needs%20In%20Art%20History:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:37.147Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:37.147Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Talking%20About%20Programming%20in%20the%20DIgital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:44.687Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:44.687Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Technical%20Narratives:%20Novel%20Approaches%20to%20the%20Analysis%20and%20Technical%20Description%20of%20Software-Based%20Art:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:50.121Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:50.121Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=TEI%20HackAThon:%20Building%20Tools%20for%20TEI%20Collections:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:56.359Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:47:56.359Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=TEI%20Simple:%20Power%2C%20economy%2C%20and%20a%20processing%20model%20for%20encoders%20and%20developers:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:04.249Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:04.249Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Text%20%2B%20Creation%20%2B%20Partnership:%20Whatever%20Happened%20to%20the%20Best%20Laid%20Plans%20of%20EEBO-TCP%3F:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:10.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:10.104Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Text%20Line%20Detection%20and%20Transcription%20Alignment:%20a%20Case%20Study%20on%20the%20Statuti%20del%20Doge%20Tiepolo:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:21.789Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:21.789Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Textal:%20Unstructured%20Text%20Analysis%20Workflows%20Through%20Interactive%20Smartphone%20Visualisations:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:31.931Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:31.931Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Aboriginal%20Dreaming%20meets%20Virtual%20Reality:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:36.989Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:36.989Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20American%20Century%20Project:%20Bringing%20into%20Critical%20Parity%20Primary%20Source%20Materials%2C%20Their%20Visualization%2C%20and%20Their%20Composite%20Analysis:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:41.404Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:41.404Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20British%20Library%20Big%20Data%20Experiment:%20Experimental%20Interfaces%2C%20Experimental%20Teaching:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:47.893Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:47.893Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Characteristics%20of%20Personae%20Observed%20Within%20Toraakirabon%20Kyogen%20Scripts:%20Extracting%20Conceptual%20Words%20Using%20Quantitative%20Analysis:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:55.298Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:48:55.298Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20cusp%20of%20change%20-%20A%20culturally%20safe%20e-Learning%20platform%20on%20Ancient%20Australia:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:02.197Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:02.197Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Dariah%20Reference%20Curriculum%20for%20Digital%20Humanities%20%28DARIAH-RC%29:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:08.450Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:08.450Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20DH%20Experience:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:22.356Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:22.357Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Enchantment%20of%20Civilization/Civility:%20the%20Digital%20Humanity%20Study%20of%20the%20%E2%80%9CObsession%E2%80%9D%20with%20%E2%80%9CWenming%E2%80%9D%28%3F%3F%29%20in%20Modern%20China:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:28.293Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:28.293Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Harpur%20Critical%20Archive:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:33.834Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:33.834Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20History%20and%20Provenance%20of%20Cultural%20Heritage%20Collections:%20New%20Approaches%20to%20Analysis%20and%20Visualization:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:39.751Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:39.751Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20History%20of%20Science%20in%20the%20Age%20of%20Networked%20Digital%20Humanities:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:47.778Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:47.778Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Old%20Familiar%20Faces:%20On%20The%20Consumption%20of%20Digital%20Scholarship:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:53.242Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:53.242Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Ontological%20Designing%20of%20the%20Digital:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:57.804Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:49:57.804Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Problem%20of%20Digital%20Dating:%20A%20Model%20for%20Uncertainty%20in%20Medieval%20Documents:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:06.005Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:06.005Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Question%20of%20the%20Luminary:%20Building%20a%20Resilient%20Campus%20DH%20Culture:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:11.379Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:11.380Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Transported%20Imagination:%20Magazines%2C%20Travel%20And%20The%20Pacific%201920s-30s:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:15.403Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:15.404Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Trials%20of%20Tokenization:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-19T10:50:19.571Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-08-19T10:50:32.543Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:32.543Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=The%20Unspoken%20Word:%20Race%20and%20the%20New%20Language%20of%20Identity:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:43.224Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:43.224Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Through%20the%20Magnifying%20Glass:%20Rolling%20Stylometry%20for%20Collaborative%20Authorship:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:50.815Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:50:50.815Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=TILT%202:%20Text%20to%20Image%20Linking%20Tool:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:04.071Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:04.072Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Topic%20Modeling%20French%20Crime%20Fiction:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:12.871Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:12.871Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Toward%20Predication-Based%20Semantic%20Trawling%20for%20Folk%20Narrative%20Studies:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:17.840Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:17.840Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Towards%20an%20Ontopedia%20for%20Post-Medieval%20Hebrew%20Manuscripts:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:27.467Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:27.467Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Traces%20of%20Lives%20in%20Digital%20Archives:%20Life%20Writing%2C%20Marginalia%20and%20Google%20Books:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:33.523Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:33.523Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Tracing%20the%20afterlife%20of%20iconic%20photographs%20using%20IPTC:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:39.837Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:39.837Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Translation%2C%20Annotation%20and%20Knowledge%20Modelling%20of%20the%20Babylonian%20Talmud:%20the%20Traduco%20System:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:47.401Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:47.402Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Uncanny%20Projections%20/%20Site-Writing%20Places:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:52.258Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:52.258Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Using%20Feature%20Structures%20for%20the%20study%20of%20medieval%20manuscripts:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:57.854Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:51:57.854Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Using%20Multiple%20Strategies%20To%20Find%20Connections%20In%20Digital%20Archives:%20Making%20Sense%20of%20Historical%20Data:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:03.527Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:03.527Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Venice%20Time%20Machine:%20Recreating%20the%20density%20of%20the%20past:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:10.945Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:10.946Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Visual%20First%20Amendment:%20A%20Case%20Study%20in%20Empricial%20Legal%20Studies%2C%20Visualization%2C%20and%20User%20Experience:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:17.748Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:17.748Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Visualizing%20Data%20for%20Digital%20humanities%20Producing%20Semantic%20Maps%20with%20Information%20extracted%20from%20Corpora%20and%20other%20Media:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:24.918Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:24.919Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Visualizing%20Japanese%20Language%20Change%20During%20the%20Past%20Century:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:29.801Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:29.801Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Visualizing%20Text%20Alignments:%20Image%20Processing%20Techniques%20for%20Locating%2018th-Century%20Commonplaces:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:37.428Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:37.428Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Visualizing%20the%20Digital%20Mitford%20Project%E2%80%99s%20Prosopography%20Data:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:43.258Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:43.258Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Voyant%20Tools%202.0:%20The%20New%2C%20The%20Neat%20%26%20the%20Gnarly:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:46.426Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:46.427Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=What%20Do%20You%20Do%20With%20A%20Million%20Readers%3F:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:53.937Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:53.937Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Whatever%20Happened%20to%20Interchange%3F:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:58.952Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:52:58.953Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=When%20Does%20%28German%29%20Literature%20Take%20Place%3F%20%E2%80%93%20On%20the%20Analysis%20of%20Temporal%20Expressions%20in%20Large%20Corpora:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:05.156Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:05.156Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=When%20Is%20Coding%20Scholarship%20And%20When%20Is%20It%20Not%3F:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:11.827Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:11.827Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Why%20Can%E2%80%99t%20You%20Just%20Whack%20it%20on%20the%20Photocopier%3F%20:%20a%20workshop%20on%20the%20digitisation%20of%20heritage%20collections%20in%20large%20collecting%20institutions:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:16.640Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:16.641Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=World-View%20from%20Poetic%20Structure:%20An%20%E2%80%9CAnti-Social%E2%80%9D%20Network%20Analysis%20of%20Robert%20Southey%E2%80%99s%20and%20Eramus%20Darwin%E2%80%99s%20Epic%20Poems:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:22.910Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:22.910Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=You%20can%20leave%20your%20hat%20on-line:%20Multiple%20Context-Dependent%20Identities%20on%20Social%20Networking%20Sites:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:27.656Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:27.656Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=Zebrapedia:%20Collective%20Explication%20of%20Philip%20K.%20Dick%E2%80%99s%20Exegesis:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:31.906Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:31.906Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=_CATview_%20-%20Supporting%20The%20Investigation%20Of%20Text%20Genesis%20Of%20Large%20Manuscripts%20By%20An%20Overall%20Interactive%20Visualization%20Tool:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:40.150Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:40.150Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%E2%80%98Nothing%20That%20Is%20Not%20There%20and%20The%20Nothing%20That%20Is%E2%80%99:%20Tracking%20the%20Digital%20Echoes%20between%20Churchyard%20and%20Theatre%20in%20Shakespeare%E2%80%99s%20London:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:44.980Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-19T10:53:44.980Z] Session [0131dc60-84c8-11e7-972f-25825e595968] - page.onError - stack:
+  global code (http://dh2015.org/abstracts/data_records.php?alias=Abstracts%20By%20Title&filter=Titles&searchText=%E2%80%9C%E2%80%A6a%20writer%20essential%20to%20the%20others%E2%80%A6%E2%80%9D%20%2A:%20further%20reflections%20towards%20a%20methodology%20and%20case%20study%20of%20a%20potential%20exemplar%20of%20Shakespeare%E2%80%99s%20hand%20in%20annotations%20to%20an%20edition%20of%20the%20Eirenarcha%20%28c1605%3F%29:12)
+
+  phantomjs://platform/console++.js:263 in error
